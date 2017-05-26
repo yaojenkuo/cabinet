@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# cabinet
+Udemy RoR project 1: FileCabinet
+>>>>>>> 81341299c6e8bf6ff1b47ad0b079801e9a06f802
